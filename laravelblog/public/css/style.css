@@ -1,0 +1,23 @@
+.bg-image {
+    background-image: url("https://cdn.pixabay.com/photo/2015/03/26/10/25/apple-691323_960_720.jpg");
+
+    background-position: center center;
+
+    background-repeat: no-repeat;
+
+    background-attachment: fixed;
+    background-size: cover;
+    height: 500px;
+}
+
+.foo{
+    padding-bottom: 3px;
+}
+
+.lapim{
+    width: 10rem;
+     
+}
+.colo{
+    background-color: maroon;
+}
